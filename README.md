@@ -11,3 +11,4 @@
 8. Assertions
 9. AAA_Setup_Teardown
 10. Mockito_Testing
+11. Logging_SLF4J
